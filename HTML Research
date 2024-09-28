@@ -1,0 +1,25 @@
+HTML Semantic tags are both important and useful for a variety of reasons
+
+1. They make it easier to review code (yours or someone else's).
+2. It's beneficial for websites to use them because search engines utilize that information
+to decide if your content is relevant or not to what was searched.
+4. People who have impairments like blindness use readers to help them navigate -
+and by using the semantic tags correctly it helps the assistance programs work better
+
+
+https://www.semrush.com/blog/semantic-html5-guide/
+
+
+Block elements vs. Inline Elements
+
+Block elements start on new lines and take up the entire lines whereas
+inline can go side by side only taking up the space that's needed. Each HTML element
+has its own mode
+
+
+
+https://www.quora.com/What-are-the-differences-between-block-and-inline-HTML-elements
+
+https://openclassrooms.com/en/courses/5265446-build-your-first-web-pages-with-html-and-css/5268281-understand-block-level-and-inline-elements
+
+https://community.codenewbie.org/images/V-4vaOvPXGBtJMbDoVLUjLbGMWdm0DDf2Z-qKnUC7r0/w:880/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvMGRsbGZlNnhk/YjZyZ21wMzAwZTEu/cG5n
